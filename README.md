@@ -1,9 +1,6 @@
 ### 🥺🥺🥺🥺🥺
 
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoisj123&count_bg=%23D14D72&title_bg=%23F2E3DB&icon=ghostery.svg&icon_color=%23F1ECED&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoisj123&count_bg=%23D14D72&title_bg=%23F2E3DB&icon=ghostery.svg&icon_color=%23F1ECED&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 <!--
