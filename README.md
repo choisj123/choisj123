@@ -3,13 +3,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoisj123&count_bg=%23D14D72&title_bg=%23F2E3DB&icon=ghostery.svg&icon_color=%23F1ECED&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
-<br>
-Feel free to contact me by email🥺🥺 👉  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:98chltnwls@gmail.com)](mailto:98chltnwls@gmail.com)
+<!-- <br>
+Feel free to contact me by email🥺🥺 👉  
+<br> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:98chltnwls@gmail.com)](mailto:98chltnwls@gmail.com) -->
   
-  <br><br>
-
-[![Sujin's github stats](https://github-readme-stats.vercel.app/api?username=choisj123)](https://github.com/choisj123/github-readme-stats)
-
+ 
 <!--
 **choisj123/choisj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
