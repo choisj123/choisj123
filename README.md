@@ -6,7 +6,7 @@
 <br>
 Feel free to contact me by email🥺🥺 👉 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:98chltnwls@gmail.com)](mailto:98chltnwls@gmail.com)
 
-
+[![Sujin's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/choisj123/github-readme-stats)
 
 <!--
 **choisj123/choisj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
